@@ -3,7 +3,7 @@ Tic-Tac-Toe Game
 A command-line Tic-Tac-Toe game with an unbeatable AI opponent, using the minimax algorithm.
 
 About:
-Built to practice game logic and adversarial search fundamentals. The opponent evaluates future moves to always play optimally. Written by hand as a core programming exercise.
+Built to practice game logic and adversarial search fundamentals. The opponent evaluates future moves to always play optimally. Written as a core programming exercise.
 
 Tech Stack
 -Python
